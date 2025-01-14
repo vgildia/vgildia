@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vgildia
+- 👋 Hi, I’m Karol
 - 👀 I’m interested in Java Plugins
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java/python/js/sql/ethical Hacking
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me come to my discord zjaranaopona
 - 😄 Pronouns: ...
